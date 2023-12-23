@@ -6,11 +6,9 @@ Welcome to the "100 Days of Machine Learning" repository! This is a comprehensiv
 
 1. [Introduction](#introduction)
 2. [Repository Structure](#repository-structure)
-3. [Daily Progress](#daily-progress)
-4. [Installation](#installation)
-5. [Usage](#usage)
-6. [Contributing](#contributing)
-7. [License](#license)
+3. [Usage](#usage)
+4. [Contributing](#contributing)
+5. [License](#license)
 
 ## Introduction
 
@@ -25,14 +23,6 @@ Machine learning is a fascinating field that combines statistical analysis with 
 - **`/datasets`**: A collection of datasets used throughout the 100 days. Each dataset is carefully selected to cover different aspects of machine learning and statistics.
 
 - **`/resources`**: Additional resources, including books, articles, and online courses that complement the content covered during the 100 days.
-
-## Daily Progress
-
-I have documented each day of the 100-day journey in the [Daily Progress](./daily_progress.md) file. This log provides a summary of the topics covered, challenges faced, and insights gained on each day. Feel free to use this log as a roadmap for your own learning journey.
-
-## Installation
-
-To run the code in this repository, you'll need to set up your development environment. Follow the instructions in the [Installation Guide](./installation.md) to get started.
 
 ## Usage
 
